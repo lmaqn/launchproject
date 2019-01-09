@@ -1,1 +1,43 @@
-{}
+.leftadjust{
+	padding-left:7%;
+}
+
+.rightadjust{
+	padding-right:7%;
+	padding-left:7%;
+}
+
+.introduce{
+	width:100%;
+}
+
+.pad{
+	padding-top:3%;
+}
+
+.room{
+	padding-bottom:4%;
+}
+
+.action{
+	width:33%;
+	padding-right:2.333%;
+}
+
+.navbar-default{
+	background-color:#fff;
+}
+
+.funtext{
+	text-shadow:2px 2px #ddc4ff;
+}
+
+body{
+	background: rgb(240,249,255); /* Old browsers */
+	background: -moz-linear-gradient(top, rgba(240,249,255,1) 0%, rgba(234,235,255,1) 47%, rgba(243,234,255,1) 100%);
+	background: -webkit-linear-gradient(top, rgba(240,249,255,1) 0%,rgba(234,235,255,1) 47%,rgba(243,234,255,1) 100%);
+	background: linear-gradient(to bottom, rgba(240,249,255,1) 0%,rgba(234,235,255,1) 47%,rgba(243,234,255,1) 100%);
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f0f9ff', endColorstr='#f3eaff',GradientType=0 );
+	padding-bottom:14%;
+	padding-top:2%;
+}
